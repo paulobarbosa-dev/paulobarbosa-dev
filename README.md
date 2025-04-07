@@ -36,4 +36,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itspaulin&layout=compact&theme=transparent)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balvesd3v&theme=transparent" alt="balvesd3v" /></p>

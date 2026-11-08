@@ -14,12 +14,12 @@ Currently working on a multi-company financial module in .NET (ASP.NET Core, EF 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [broadcast](https://github.com/itspaulin/broadcast) | Multi-tenant broadcast SaaS with scheduled messages, real-time status and cascade deletes. [Live demo](https://broadcast-paulofilho.web.app) | React, Firebase, Cloud Functions, Firestore |
-| [financas](https://github.com/itspaulin/financas) | Household finance app for iOS, Android and web. Natural-language expense entry with Claude, card statements, installments, multi-household | Expo, React Native, PostgreSQL, Drizzle |
-| [lets-prospect](https://github.com/itspaulin/lets-prospect) | B2B prospecting with human approval on every send: discovery, AI qualification, campaigns, email and WhatsApp, unsubscribe | Node.js, Amazon Bedrock, Cloudflare Workers |
-| [hermes-v2](https://github.com/itspaulin/hermes-v2) | Goals and tasks assistant on Telegram, with an Obsidian vault on GitHub as the source of truth and scheduled check-ins | AWS Lambda, EventBridge Scheduler, SAM |
-| [goomer-api](https://github.com/itspaulin/goomer-api) | Restaurant menu API with time-based promotions | Node.js, PostgreSQL, Clean Architecture, DDD |
-| [ForumCore](https://github.com/itspaulin/ForumCore) | Forum backend with domain events, attachments and JWT auth | NestJS, Prisma, Clean Architecture, DDD |
+| [broadcast](https://github.com/paulobarbosa-dev/broadcast) | Multi-tenant broadcast SaaS with scheduled messages, real-time status and cascade deletes. [Live demo](https://broadcast-paulofilho.web.app) | React, Firebase, Cloud Functions, Firestore |
+| [financas](https://github.com/paulobarbosa-dev/financas) | Household finance app for iOS, Android and web. Natural-language expense entry with Claude, card statements, installments, multi-household | Expo, React Native, PostgreSQL, Drizzle |
+| [lets-prospect](https://github.com/paulobarbosa-dev/lets-prospect) | B2B prospecting with human approval on every send: discovery, AI qualification, campaigns, email and WhatsApp, unsubscribe | Node.js, Amazon Bedrock, Cloudflare Workers |
+| [hermes-v2](https://github.com/paulobarbosa-dev/hermes-v2) | Goals and tasks assistant on Telegram, with an Obsidian vault on GitHub as the source of truth and scheduled check-ins | AWS Lambda, EventBridge Scheduler, SAM |
+| [goomer-api](https://github.com/paulobarbosa-dev/goomer-api) | Restaurant menu API with time-based promotions | Node.js, PostgreSQL, Clean Architecture, DDD |
+| [ForumCore](https://github.com/paulobarbosa-dev/ForumCore) | Forum backend with domain events, attachments and JWT auth | NestJS, Prisma, Clean Architecture, DDD |
 
 ## Stack
 

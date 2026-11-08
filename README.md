@@ -1,9 +1,11 @@
 # Hi, I'm Paulo 👋
 
-Full Stack Engineer from Natal, Brazil. I build products end to end with TypeScript: APIs and data models, web and mobile frontends, cloud infrastructure, and AI features that actually ship.
+Full Stack Engineer from Natal, Brazil. I build products end to end with C#/.NET and TypeScript: APIs and data models, web and mobile frontends, cloud infrastructure, and AI features that actually ship.
+
+Currently working on a multi-company financial module in .NET (ASP.NET Core, EF Core, PostgreSQL with Row-Level Security) and on a multi-tenant e-commerce platform in Node.js.
 
 - Multi-tenant SaaS: data isolation, auth, real-time updates, background jobs
-- Backend architecture: Node.js, NestJS, Clean Architecture, DDD, PostgreSQL
+- Backend architecture: C#/.NET, ASP.NET Core, EF Core, Node.js, NestJS, Clean Architecture, DDD, PostgreSQL
 - Frontend and mobile: React, Next.js, Expo / React Native
 - Cloud and serverless: AWS (Lambda, EventBridge, Bedrock), Firebase, Cloudflare Workers
 - AI in products: LLM-powered input, classification and qualification with guardrails
@@ -21,6 +23,8 @@ Full Stack Engineer from Natal, Brazil. I build products end to end with TypeScr
 
 ## Stack
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)

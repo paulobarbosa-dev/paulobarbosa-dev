@@ -2,9 +2,9 @@
 
 Full Stack Software Engineer based in Natal, Brazil (UTC-3). I build and run marketplaces and e-commerce platforms end to end with C#/.NET and Node.js/TypeScript: APIs and data models, integrations, payments, web frontends and cloud infrastructure.
 
-Recent work, on a multi-tenant e-commerce platform with 87 stores and ~1M products:
+Recent work, on a multi-tenant e-commerce platform with dozens of stores and ~1M products:
 
-- 500k+ HTTP requests, 16k webhooks and 15k background jobs a day
+- Hundreds of thousands of HTTP requests and tens of thousands of webhooks and background jobs a day
 - -49.5% unnecessary processing after mapping and handling crawler traffic
 - Deploy pipeline down from ~40 to ~5 minutes
 - Financial reconciliation backend built from scratch: statement import, processing queues, divergence rules

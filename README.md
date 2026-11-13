@@ -5,8 +5,8 @@ Full Stack Software Engineer based in Natal, Brazil (UTC-3). I build and run mar
 Recent work, on a multi-tenant e-commerce platform with dozens of stores and ~1M products:
 
 - Hundreds of thousands of HTTP requests and tens of thousands of webhooks and background jobs a day
-- -49.5% unnecessary processing after mapping and handling crawler traffic
-- Deploy pipeline down from ~40 to ~5 minutes
+- −49.5% page-rendering load after measuring bot traffic and blocking the heaviest crawlers
+- Manual SSH deploys replaced with automated ones: ~3.5 min from merge to production
 - Financial reconciliation backend built from scratch: statement import, processing queues, divergence rules
 
 What I work on:
@@ -14,7 +14,7 @@ What I work on:
 - Backend: C#/.NET, ASP.NET Core, EF Core, Node.js, NestJS, PostgreSQL, Redis, RabbitMQ
 - Reliable integrations: webhooks, queues, jobs, idempotency, retries
 - Frontend: React, Next.js, Expo / React Native
-- Cloud: AWS, Docker, Cloudflare, CI/CD
+- Cloud: AWS, Docker, Cloudflare, Jenkins, CI/CD
 
 ## Featured projects
 
